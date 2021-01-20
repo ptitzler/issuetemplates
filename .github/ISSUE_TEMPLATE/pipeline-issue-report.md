@@ -23,23 +23,18 @@ If applicable, add screenshots or log output to help explain your problem.
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-** Deployment information**
+**Deployment information**
 Describe what you've deployed and how:
  - Elyra version: [e.g. 1.5.3]
  - Operating system: [e.g. macos, linux]
  - Installation source: [e.g. PyPI, conda, from source, official container image, custom container image]
  - Deployment type: [e.g. local installation, Docker, Kubernetes, Kubeflow [notebook server] , Open Data Hub]
 
-** Pipeline runtime environment**
+**Pipeline runtime environment**
 If the issue is related to pipeline execution, identify the environment where the pipeline is executed
  - Local execution
  - Kubeflow Pipelines (provide version number, whether multi-user auth enabled)
  - Apache Airflow (provide version number)
-
-** Runtime configuration settings**
+ 
+**Runtime configuration settings**
 If the issue is related to pipeline execution, document the runtime configuration settings from the Elyra UI, omitting confidential information. 
-** Runtime environment**
-If the issue is related to pipeline execution identify the environment where the pipeline is executed
- - Local execution
- - Kubeflow Pipelines (provide version number)
- - Apache Airflow (provide version number)
